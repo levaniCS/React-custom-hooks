@@ -1,6 +1,6 @@
 ## This hook returns view port width and height
 
-**[Example link](https://codepen.io/levanics/pen/VwWoPJy)
+**[Example link](https://codepen.io/levanics/pen/VwWoPJy)**
 
 ```javascript
 
