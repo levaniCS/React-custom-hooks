@@ -1,6 +1,6 @@
 ## Handles the event of clicking outside of the wrapped component.
 
-**[Example link](https://codepen.io/pen/?&prefill_data_id=8511633c-0f82-477e-a901-6968642e36ca)**
+**[Example link](https://codepen.io/levanics/pen/rNwXjEe)**
 
 ```javascript
 

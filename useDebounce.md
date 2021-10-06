@@ -12,7 +12,7 @@
 * This is particularly useful when dealing with user input.
 
 
-**[Example link](https://codepen.io/pen/?&prefill_data_id=ef7d2550-e4d3-46db-a5ba-b987b74d8228)**
+**[Example link](https://codepen.io/levanics/pen/VwWoPoQ)**
 
 
 
