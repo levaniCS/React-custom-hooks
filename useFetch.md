@@ -18,6 +18,9 @@
 * Return an object containing the response and error state variables.
 
 
+**[Example link](https://codepen.io/pen/?&prefill_data_id=c920969a-27dc-491d-9df4-f7cea3ff177e)**
+
+
 
 ```javascript
 const useFetch = (url, options) => {

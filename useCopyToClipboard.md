@@ -10,8 +10,7 @@
 * Return the copied state variable and the copy callback.
 
 
-
-
+**[Example link](https://codepen.io/pen/?&prefill_data_id=625e2cb7-3bfa-401d-acf8-c4be982ff03e)**
 
 ```javascript
 const useCopyToClipboard = text => {
